@@ -60,6 +60,4 @@ An IoT-based disaster detection and alerting solution that monitors soil moistur
 - Rahul B  
 - Sibi B John  
 
-## 📜 License
 
-MIT
