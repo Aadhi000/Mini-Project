@@ -5,4 +5,4 @@
 - **V3, V4, V5**: Tilt (X, Y, Z)
 - **V6**: Vibration value
 
-Set up Blynk widgets for each and use Eventor for logging alerts.
+Set up Blynk widgets for each and use Event for logging alerts.
