@@ -1,3 +1,0 @@
-# Working
-
-(System working details...)
