@@ -43,15 +43,45 @@ An IoT-based disaster detection and alerting solution that monitors soil moistur
 
 ## 📂 Repository Structure
 
-| Folder         | Contents                         |
-|----------------|----------------------------------|
-| `firmware/`    | ESP32 code                       |
-| `firebase/`    | Blynk config                     |
-| `web-dashboard/`| Dashboard structure description |
-| `docs/`        | Explanation, block, literature   |
-| `images/`      | Diagrams and screenshots         |
-| `videos/`      | Demo files (if any)              |
-| `extras/`      | Project report (PDF)             |
+| Folder / File            | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `Discussions/`           | Contains detailed markdowns on:                                             |
+|                          | → `advantages.md` – Benefits of the system                                  |
+|                          | → `disadvantages.md` – Challenges or drawbacks                              |
+|                          | → `applications.md` – Real-world use cases                                  |
+|                          | → `future-scope.md` – Future enhancements                                   |
+|                          |                                                                             |
+| `Output/`                | Visual outputs and final demonstrations                                     |
+| ├── `images/`            | Image snapshots of the working system                                       |
+| └── `video/`             | Demo video of the project                                                   |
+|                          |                                                                             |
+| `Web_Dashboard/`         | Dashboard setup details (layout, widget mapping)                           |
+| └── `dashboard-description.md` | Markdown file describing dashboard configuration                     |
+|                          |                                                                             |
+| `blynk_credentials/`     | Blynk configuration                                                         |
+| └── `blynk-config.txt`   | Auth token, template ID, event names                                       |
+|                          |                                                                             |
+| `docs/`                  | Project documentation and technical content                                |
+| ├── `architecture.md`    | Hardware + software architecture                                            |
+| ├── `working.md`         | Explanation of system operation                                             |
+| └── `literature-survey.md` | Review of related systems and improvements                              |
+|                          |                                                                             |
+| `extras/`                | Additional project material                                                 |
+| └── `REPORT.pdf`         | Full project report in PDF format                                           |
+|                          |                                                                             |
+| `firmware/`              | Arduino/ESP32 source code                                                   |
+| └── `esp32_alert_system.ino` | Firmware for ESP32 microcontroller                                     |
+|                          |                                                                             |
+| `flowchart/`             | System logic representation                                                 |
+| └── `flowchart.png`      | Visual flowchart of the system process                                      |
+|                          |                                                                             |
+| `images/`                | Diagrams for documentation                                                  |
+| ├── `block-diagram.png`  | Logical system block diagram                                                |
+| └── `circuit-diagram.png`| Electrical circuit schematic                                                |
+|                          |                                                                             |
+| `README.md`              | You’re reading it — project overview and index                              |
+
+
 
 ## 👨‍💻 Team
 
