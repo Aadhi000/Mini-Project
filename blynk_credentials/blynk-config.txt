@@ -1,0 +1,3 @@
+BLYNK_TEMPLATE_ID: Your_Template_ID
+BLYNK_TEMPLATE_NAME: Your_Template_Name
+BLYNK_AUTH_TOKEN: Your_Auth_Token
