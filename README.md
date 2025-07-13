@@ -22,11 +22,11 @@ An IoT-based disaster detection and alerting solution that monitors soil moistur
 
 ## 🖼️ System Architecture
 
-![System Architecture](images/system-architecture.png)
+![System Architecture](images/BLOCKDIAGRAM.png)
 
 ## 🔧 Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/CIRCUITDIAGRAM.png)
 
 ## 🛠️ How It Works
 
